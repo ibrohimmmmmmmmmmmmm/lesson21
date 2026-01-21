@@ -2,5 +2,18 @@
 .all1 {
     background-image: url(../image\ \(75\).png);
     background-color: rgba(0, 0, 255, 0.578);
-    /* margin: auto; */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.all9 {
+    background-image: url(../bg\ image.png);
+    background-color: rgba(0, 0, 255, 0.578);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.alll9  {
+    background-color: rgba(243, 243, 243, 0.7);
+    border: 1px solid white;
 }
